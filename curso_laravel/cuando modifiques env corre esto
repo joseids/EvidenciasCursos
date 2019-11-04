@@ -1,0 +1,4 @@
+php artisan config:cache
+
+hay que ejecutar la linea anterior el la terminal cada vez que se 
+cambian los valores de .env
